@@ -1,0 +1,5 @@
+streamlit
+gTTS
+playsound==1.2.2
+Pillow
+tensorflow
